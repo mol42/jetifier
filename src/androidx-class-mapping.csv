@@ -1643,6 +1643,7 @@ android.support.v4.widget.TintableCompoundButton,androidx.core.widget.TintableCo
 android.support.v4.widget.TintableImageSourceView,androidx.core.widget.TintableImageSourceView
 android.support.v4.widget.ViewDragHelper,androidx.customview.widget.ViewDragHelper
 android.support.v4.widget.ViewGroupUtils,androidx.coordinatorlayout.widget.ViewGroupUtils
+android.support.v4.widget,androidx.core.widget
 android.support.v7.app.ActionBar,androidx.appcompat.app.ActionBar
 android.support.v7.app.ActionBarDrawerToggle,androidx.appcompat.app.ActionBarDrawerToggle
 android.support.v7.app.ActionBarDrawerToggleHoneycomb,androidx.appcompat.app.ActionBarDrawerToggleHoneycomb

@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36aca99a-5ce0-43a9-83d0-fa2a8f5b3e29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/androidx-class-mapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/androidx-class-mapping.csv" afterDir="false" />
-    </list>
+    <list default="true" id="36aca99a-5ce0-43a9-83d0-fa2a8f5b3e29" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/androidx-class-mapping.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="1420" column="103" selection-start-line="1420" selection-start-column="103" selection-end-line="1420" selection-end-column="103" />
+            <state relative-caret-position="129">
+              <caret line="1426" selection-start-line="1426" selection-end-line="1426" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -114,24 +111,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561053005510</updated>
-      <workItem from="1561053007815" duration="5563000" />
+      <workItem from="1561053007815" duration="6303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5563000" />
+    <option name="totallyTimeSpent" value="6303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-157" width="1446" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="1440" y="-157" width="1446" height="1057" extended-state="1" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -170,8 +166,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/androidx-class-mapping.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="1420" column="103" selection-start-line="1420" selection-start-column="103" selection-end-line="1420" selection-end-column="103" />
+        <state relative-caret-position="129">
+          <caret line="1426" selection-start-line="1426" selection-end-line="1426" selection-end-column="26" />
         </state>
       </provider>
     </entry>
