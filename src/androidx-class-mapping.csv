@@ -1935,3 +1935,5 @@ android.support.wear.widget.SwipeDismissFrameLayout,androidx.wear.widget.SwipeDi
 android.support.wear.widget.SwipeDismissLayout,androidx.wear.widget.SwipeDismissLayout
 android.support.wear.widget.WearableLinearLayoutManager,androidx.wear.widget.WearableLinearLayoutManager
 android.support.wear.widget.WearableRecyclerView,androidx.wear.widget.WearableRecyclerView
+android.support.v4.widget.*,androidx.core.widget.*
+android.support.annotation.*,androidx.annotation.*
