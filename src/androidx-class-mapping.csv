@@ -445,6 +445,7 @@ android.support.annotation.UiThread,androidx.annotation.UiThread
 android.support.annotation.VisibleForTesting,androidx.annotation.VisibleForTesting
 android.support.annotation.WorkerThread,androidx.annotation.WorkerThread
 android.support.annotation.XmlRes,androidx.annotation.XmlRes
+android.support.annotation,androidx.annotation
 android.support.app.recommendation.ContentRecommendation,androidx.recommendation.app.ContentRecommendation
 android.support.app.recommendation.RecommendationExtender,androidx.recommendation.app.RecommendationExtender
 android.support.compat.R,androidx.core.R
