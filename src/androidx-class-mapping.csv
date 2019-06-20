@@ -1424,6 +1424,7 @@ android.support.v4.content.res.ResourcesCompat,androidx.core.content.res.Resourc
 android.support.v4.content.res.TypedArrayUtils,androidx.core.content.res.TypedArrayUtils
 android.support.v4.content.SharedPreferencesCompat,androidx.core.content.SharedPreferencesCompat
 android.support.v4.content.WakefulBroadcastReceiver,androidx.legacy.content.WakefulBroadcastReceiver
+android.support.v4.content,androidx.core.content
 android.support.v4.database.CursorWindowCompat,androidx.core.database.CursorWindowCompat
 android.support.v4.database.DatabaseUtilsCompat,androidx.core.database.DatabaseUtilsCompat
 android.support.v4.database.sqlite.SQLiteCursorCompat,androidx.core.database.sqlite.SQLiteCursorCompat
