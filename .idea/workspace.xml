@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin/jetify">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/androidx-class-mapping.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="1426" selection-start-line="1426" selection-end-line="1426" selection-end-column="26" />
+            <state relative-caret-position="264">
+              <caret line="1645" column="46" lean-forward="true" selection-start-line="1645" selection-start-column="46" selection-end-line="1645" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -37,6 +37,8 @@
     <findStrings>
       <find>android.support.v4.view.ViewCompat</find>
       <find>android.support.v4.content</find>
+      <find>android.support.v4.widget</find>
+      <find>androidx.core.widget</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -51,7 +53,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1440" />
-    <option name="y" value="-157" />
+    <option name="y" value="156" />
     <option name="width" value="1446" />
     <option name="height" value="1057" />
   </component>
@@ -111,15 +113,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561053005510</updated>
-      <workItem from="1561053007815" duration="6303000" />
+      <workItem from="1561053007815" duration="7768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6303000" />
+    <option name="totallyTimeSpent" value="7768000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-157" width="1446" height="1057" extended-state="1" />
+    <frame x="1440" y="156" width="1446" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -157,17 +160,17 @@
     <entry file="file://$PROJECT_DIR$/test">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/jetify">
+    <entry file="file://$PROJECT_DIR$/src/androidx-class-mapping.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="264">
+          <caret line="1645" column="46" lean-forward="true" selection-start-line="1645" selection-start-column="46" selection-end-line="1645" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/androidx-class-mapping.csv">
+    <entry file="file://$PROJECT_DIR$/bin/jetify">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="1426" selection-start-line="1426" selection-end-line="1426" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>

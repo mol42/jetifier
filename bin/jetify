@@ -22,3 +22,5 @@ for FILE in `find $PROJECT_DIR \( -name "*.java" -o -name "*.xml" \) -type f -no
   sed -i".bak" -f $MAPPING_SED $FILE
   rm -f "$FILE.bak"
 done
+
+gsed -i "7 a import androidx.drawerlayout.widget.DrawerLayout;" node_modules/react-native-navigation/lib/android/app/src/main/java/com/reactnativenavigation/views/SideMenu.java
